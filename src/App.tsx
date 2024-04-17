@@ -1,4 +1,4 @@
-import PeoplePage from "./containers/PeoplePage/FilmPage"
+import PeoplePage from "./containers/FilmPage/FilmPage"
 
 function App() {
 
